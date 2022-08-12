@@ -7,3 +7,7 @@ The class these notes were taken for is:
 The class had a heavy focus on using git bash rather than relying 
 mostly on a GUI or on Github.  The notes are quite extensive
 and cover the subject of Git and Github very thoroughly.
+
+
+
+Maintained by Travis Rillos.
